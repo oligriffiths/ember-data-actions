@@ -1,6 +1,6 @@
 # ember-data-actions
 
-This README outlines the details of collaborating on this Ember addon.
+WARNING - NOT EVEN ALPHA!! DO NOT USE.
 
 ## Installation
 
